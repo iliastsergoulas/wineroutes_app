@@ -1,0 +1,242 @@
+[
+  {
+    "routeid": "One",
+    "routetitle": "Wine Route of Epirus",
+    "routenick": "epirus",
+    "distance": 77.117,
+    "duration": 4349,
+    "seconds": 4349,
+    "number": 3,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Two",
+    "routetitle": "Wine Route of Thessaloniki",
+    "routenick": "thessaloniki",
+    "distance": 139.738,
+    "duration": 8097,
+    "seconds": 8097,
+    "number": 4,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Three",
+    "routetitle": "Wine Route of Lakes",
+    "routenick": "lakes",
+    "distance": 192.074,
+    "duration": 10440.7,
+    "seconds": 10440.7,
+    "number": 4,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Four",
+    "routetitle": "Wine Route of Dionysus",
+    "routenick": "dionysus",
+    "distance": 137.726,
+    "duration": 8332.9,
+    "seconds": 8332.9,
+    "number": 3,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Five",
+    "routetitle": "Wine Route of Attiki",
+    "routenick": "attiki",
+    "distance": 91.657,
+    "duration": 6572.29,
+    "seconds": 6572.29,
+    "number": 5,
+    "source": "Source: Wines of Athens"
+  },
+  {
+    "routeid": "Six",
+    "routetitle": "Wine Route of Argolida",
+    "routenick": "argolida",
+    "distance": 13.83,
+    "duration": 1048.2,
+    "seconds": 1048.2,
+    "number": 2,
+    "source": "Source: Wines of Peloponnese"
+  },
+  {
+    "routeid": "Seven",
+    "routetitle": "Wine Route of Chalkidiki",
+    "routenick": "chalkidiki",
+    "distance": 276.309,
+    "duration": 22460.2,
+    "seconds": 22460.2,
+    "number": 5,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Eight",
+    "routetitle": "Wine Route of Naousa",
+    "routenick": "naousa",
+    "distance": 40.729,
+    "duration": 2965.8,
+    "seconds": 2965.8,
+    "number": 5,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Nine",
+    "routetitle": "Wine Route of Goumenissa",
+    "routenick": "goumenissa",
+    "distance": 7.854,
+    "duration": 546,
+    "seconds": 546,
+    "number": 2,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Ten",
+    "routetitle": "Wine Route of Lakonia",
+    "routenick": "lakonia",
+    "distance": 62.463,
+    "duration": 3615,
+    "seconds": 3615,
+    "number": 3,
+    "source": "Source: Wines of Peloponnese"
+  },
+  {
+    "routeid": "Eleven",
+    "routetitle": "Wine Route of Ilia",
+    "routenick": "ilia",
+    "distance": 95.656,
+    "duration": 7067,
+    "seconds": 7067,
+    "number": 5,
+    "source": "Source: Wines of Peloponnese"
+  },
+  {
+    "routeid": "Twelve",
+    "routetitle": "Wine Route of Arkadia",
+    "routenick": "arkadia",
+    "distance": 41.493,
+    "duration": 2351,
+    "seconds": 2351,
+    "number": 3,
+    "source": "Source: Wines of Peloponnese"
+  },
+  {
+    "routeid": "Thirteen",
+    "routetitle": "Wine Route of Olympus",
+    "routenick": "olympus",
+    "distance": 74.071,
+    "duration": 3932,
+    "seconds": 3932,
+    "number": 2,
+    "source": "Source: Wines of North Greece"
+  },
+  {
+    "routeid": "Fourteen",
+    "routetitle": "Wine Route of Rhodes",
+    "routenick": "rhodes",
+    "distance": 57.427,
+    "duration": 3665,
+    "seconds": 3665,
+    "number": 6,
+    "source": "Source: gastronomynet.eu"
+  },
+  {
+    "routeid": "Fifteen",
+    "routetitle": "Wine Route of Kos",
+    "routenick": "kos",
+    "distance": 10.17,
+    "duration": 872,
+    "seconds": 872,
+    "number": 2,
+    "source": "Source: gastronomynet.eu"
+  },
+  {
+    "routeid": "Sixteen",
+    "routetitle": "Wines of Crete - Route9",
+    "routenick": "route9",
+    "distance": 94.458,
+    "duration": 6160,
+    "seconds": 6160,
+    "number": 3,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "Seventeen",
+    "routetitle": "Wines of Crete - Route8",
+    "routenick": "route8",
+    "distance": 62.679,
+    "duration": 4135,
+    "seconds": 4135,
+    "number": 4,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "Eighteen",
+    "routetitle": "Wines of Crete - Route7",
+    "routenick": "route7",
+    "distance": 25.254,
+    "duration": 1923,
+    "seconds": 1923,
+    "number": 3,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "Nineteen",
+    "routetitle": "Wines of Crete - Route6",
+    "routenick": "route6",
+    "distance": 18.649,
+    "duration": 1255,
+    "seconds": 1255,
+    "number": 2,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "Twenty",
+    "routetitle": "Wines of Crete - Route5",
+    "routenick": "route5",
+    "distance": 9.065,
+    "duration": 763,
+    "seconds": 763,
+    "number": 3,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "TwenyOne",
+    "routetitle": "Wines of Crete - Route4",
+    "routenick": "route4",
+    "distance": 18.707,
+    "duration": 1551,
+    "seconds": 1551,
+    "number": 3,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "TwenyTwo",
+    "routetitle": "Wines of Crete - Route1",
+    "routenick": "route1",
+    "distance": 25.274,
+    "duration": 1786,
+    "seconds": 1786,
+    "number": 3,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "TwenyThree",
+    "routetitle": "Wines of Crete - Route3",
+    "routenick": "route3",
+    "distance": 2.941,
+    "duration": 451,
+    "seconds": 451,
+    "number": 2,
+    "source": "Source: Wines of Crete"
+  },
+  {
+    "routeid": "TwentyFour",
+    "routetitle": "Wines of Crete - Route2",
+    "routenick": "route2",
+    "distance": 4.175,
+    "duration": 505,
+    "seconds": 505,
+    "number": 2,
+    "source": "Source: Wines of Crete"
+  }
+]

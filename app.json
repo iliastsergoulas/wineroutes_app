@@ -1,0 +1,33 @@
+{
+  "expo":{
+    "name":"Wine Routes",
+    "slug":"wineroutes",
+    "privacy":"public",
+    "platforms":["ios","android"],
+    "version":"2.0.0.0.4",
+    "orientation":"portrait",
+    "icon": "./assets/images/icon.png",
+    "splash":{"image":"./assets/images/splash.png","resizeMode":"cover","backgroundColor":"#ffffff"},
+    "updates":{"fallbackToCacheTimeout":0},
+    "assetBundlePatterns":["**/*"],
+    "notification":{"icon":"./assets/images/icon.png"},
+    "android":{
+      "package":"com.phonegap.wineroutes",
+      "playStoreUrl":"https://play.google.com/store/apps/details?id=com.phonegap.wineroutes",
+      "versionCode":20004,
+      "icon":"./assets/images/icon.png",
+      "permissions": ["ACCESS_COARSE_LOCATION","ACCESS_FINE_LOCATION","VIBRATE","CAMERA"],
+      "userInterfaceStyle":"dark",
+  	  "googleServicesFile":"./google-services.json",
+      "enableDangerousExperimentalLeanBuilds":true,
+      "intentFilters":[{
+        "action":"VIEW",
+        "autoVerify":true,
+        "data":[{"scheme":"https","host":"wineroutes.eu","pathPrefix":"/wineries"}],
+        "category":["BROWSABLE","DEFAULT"]
+      }]
+    },
+    "ios":{"supportsTablet":true},
+  	"scheme":"wineroutes"
+  }
+}
